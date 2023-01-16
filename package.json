@@ -1,0 +1,49 @@
+{
+  "name": "ch-mobile-shared",
+  "version": "1.0.0",
+  "description": "Shared Modules for Mobile Apps\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5DConfidant Health Mobile Apps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafeOpioidUseCoalition/ch-mobile-shared.git"
+  },
+  "author": "Muhammad Ahmed",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/SafeOpioidUseCoalition/ch-mobile-shared/issues"
+  },
+  "homepage": "https://github.com/SafeOpioidUseCoalition/ch-mobile-shared#readme",
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.1",
+    "lottie-react-native": "^3.2.1",
+    "moment": "^2.24.0",
+    "react-moment": "^0.9.2",
+    "react-native-branch": "^5.0.0",
+    "react-native-circular-progress": "^1.3.0",
+    "react-native-config": "^1.0.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-gifted-chat": "0.9.4",
+    "react-native-image-picker": "^1.1.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-looped-carousel": "^0.1.13",
+    "react-native-media-queries": "^0.3.0",
+    "react-native-modal-overlay": "^1.3.1",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-permissions": "^2.0.2",
+    "react-native-switch-toggle": "^1.1.0",
+    "react-native-vector-icons": "6.6.0",
+    "sendbird": "^3.0.145",
+    "socket.io-client": "^2.3.0",
+    "react-native-qrcode-generator": "^1.2.2",
+    "react-native-wheel-picker-android": "^2.0.5",
+    "react-native-version-check": "^3.4.1"
+  },
+  "devDependencies": {
+    "react": "16.9.0"
+  }
+}
